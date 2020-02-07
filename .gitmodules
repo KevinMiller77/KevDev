@@ -1,0 +1,9 @@
+[submodule "gbcemulator"]
+	path = gbcemulator
+	url = http://github.com/EightBitBoot/gbcemulator
+[submodule "tletc"]
+	path = tletc
+	url = http://github.com/EightBitBoot/tletc
+[submodule "EspBitbang"]
+	path = EspBitbang
+	url = http://github.com/kevinmiller77/EspBitbang
