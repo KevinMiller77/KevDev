@@ -1,9 +1,0 @@
-﻿  fipImage.cpp
-  fipMemoryIO.cpp
-  fipMetadataFind.cpp
-  fipMultiPage.cpp
-  fipTag.cpp
-  fipWinImage.cpp
-  FreeImagePlus.cpp
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'C:\Users\kevin\Dev\FreeImage\Win32\Debug\FreeImaged.lib'
