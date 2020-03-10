@@ -1,0 +1,8 @@
+*.txt
+*.sln
+*.vcxproj.
+*.vcxproj.*
+
+bin/*
+.vs/*
+.vscode/*
