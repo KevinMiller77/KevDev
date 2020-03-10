@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\kevin\\Dev\\Java\\Evan_Lab4\\Evan_Lab4\\lib\\controller\\Drawing.jar"
-    ]
-}
